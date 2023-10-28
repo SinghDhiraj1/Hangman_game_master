@@ -11,7 +11,7 @@ The objective of our project is to implement the hangman game using Python. It d
 ### Project Prerequisites
 This project requires good knowledge of Python which includes defining functions and managing for/while loops. The functions that we use here contain arguments that are defined in a global scope which can be further used in other functions to improve game quality. It can also be used to provide different steps when required to execute upon conditions by the for and while loops.
 
-### Example Images
+### Output Images
 - Lost the Game
 ![Screenshot 2023-10-28 153028](https://github.com/SinghDhiraj1/Hangman_game_master/assets/133857148/df4cfd03-4cf1-4e57-bb1d-5a7e832f21c5)
 - Won the Game
